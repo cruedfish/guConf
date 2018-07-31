@@ -1,6 +1,7 @@
 Hai_SERVER_SESSION_ID: haiserverid
 Hai_SERVER_SESSION_IDS: haiserverids
 Hai_SERVER_CODE: haiservercode
+Hai_SHIRO_SESSION_ID: haishirosessionid
 sso: 
   server: 
     uri: http://localhost:7009/SSO/login
