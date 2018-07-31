@@ -1,0 +1,3 @@
+sso: 
+  server: 
+    uri: http://localhost:7009/SSO/login
