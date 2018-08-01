@@ -1,6 +1,6 @@
 sso: 
   server: 
-    uri: http://localhost:7009/
+    uri: http://localhost:7009
     
 Hai_SERVER_SESSION_ID: haiserverid
 Hai_SERVER_SESSION_IDS: haiserverids
