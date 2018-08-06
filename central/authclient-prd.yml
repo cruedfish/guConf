@@ -3,4 +3,4 @@ sso:
     uri: http://localhost:7009
     
 SESSION_ID: session_id
-SSO_Id: sso_id123
+SSO_Id: sso_id
