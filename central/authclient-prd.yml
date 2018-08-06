@@ -2,7 +2,5 @@ sso:
   server: 
     uri: http://localhost:7009
     
-Hai_SERVER_SESSION_ID: haiserverid
-Hai_SERVER_SESSION_IDS: haiserverids
-Hai_SERVER_CODE: haiservercode
-Hai_SHIRO_SESSION_ID: haishirosessionid
+SESSION_ID: session_id
+SSO_Id: sso_id
