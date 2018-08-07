@@ -3,3 +3,5 @@ SSO_Id: sso_id
 sso: 
   server: 
     uri: http://localhost:7009/SSO/login
+    
+Hai_SHIRO_SESSION_ID: hai_shiro_session_id    

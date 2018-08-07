@@ -4,3 +4,5 @@ sso:
     
 SESSION_ID: session_id
 SSO_Id: sso_id
+
+Hai_SHIRO_SESSION_ID: hai_shiro_session_id
